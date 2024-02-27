@@ -1,0 +1,13 @@
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+/* @media(max-width:1000px){
+    .header{
+        padding-top: 15px;
+        font-size: 6.4vw;
+    }
+} */
+
